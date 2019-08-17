@@ -1,1 +1,1 @@
-# Lossless Image Compression
+# Lossless Image Compression using Huffman Coding
