@@ -1,7 +1,4 @@
-#include<iostream>
-#include<fstream>
 #include <bits/stdc++.h>
-#include<unordered_map>
 using namespace std;
 int bit_counter;
 char current_byte='\0';
