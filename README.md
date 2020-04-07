@@ -37,3 +37,12 @@ This repository is licensed under the terms of the Apache License 2.0 license.
 1. Open a terminal in the folder containing the repository.
 1. Run `$ sudo g++ compress_bmpimage.cpp` to compile the CPP file.
 1. Execute `$ ./a.out` to run the CPP file.
+
+## Screenshots
+Input Image
+
+<img src="screenshots/image2.png" >
+
+Output Image
+
+<img src="screenshots/image1.png">
